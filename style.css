@@ -1,0 +1,135 @@
+.container{
+position: relative;
+width: 1440px;
+height: 1080px;
+background: #F0F2F5;
+
+}
+svg{
+            position: absolute;
+            width: 443px;
+            height: 156px;
+            left: 61px;
+            top: 238px;
+}
+p{
+    position: absolute;
+    width: 470px;
+    height: 76px;
+    left: 105px;
+    top: 397px;
+    
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.035em;
+    color: #1C1E21;
+    
+}
+.form_section{
+position: absolute;
+width: 482px;
+height: 418px;
+left: 756px;
+top: 192px;
+background: #FFFFFF;
+box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+
+ .form_me{
+    position: absolute;
+    top: 56px;
+    left: 50px;
+}
+input{
+    height: 50px;
+    width: 385px;
+    border-radius: 10px;
+    color: #8A8D91;
+    border-color: #8A8D91 #8A8D91 ;
+    
+}
+.btn_section{
+   position: absolute;
+   transform: translate(-50%,-50%);
+   top: 276px;
+    left: 237px;
+}
+.log_btn button{
+    position: absolute;
+    width: 385px;
+    height: 50px;
+    transform: translate(-50%, -50%);
+    left: 17px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #1877F2;
+    margin: auto;
+    
+}
+a{
+text-decoration: none; 
+position: absolute;
+width: 142px;
+height: 16.77px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.05em;
+color: #1877F2;
+left: -42px;
+
+
+}
+hr{
+position: absolute;
+width: 379px;
+background: #FFFFFF;
+box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+margin: auto;
+left: -174px;
+}
+.create_btn
+    button{
+position: absolute;
+width: 385px;
+height: 50px;
+top: 103px;
+left: -179px;
+border-radius: 10px;
+border: none;
+background-color: #42B72A;
+font-size: 16px;
+color: white;
+font-weight: bold;
+    }
+.footer p{
+    /* Create a Page for a celebrity, brand or business. */
+
+position: absolute;
+width: 470px;
+height: 38px;
+left: 769px;
+top: 634px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+/* Primary Text */
+color: #1C1E21;
+
+
+}
